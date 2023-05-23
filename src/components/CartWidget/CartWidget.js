@@ -5,7 +5,7 @@ const CartWidget = () => {
     return (
         <div>
             <RiShoppingCartLine />
-            0
+            3
         </div>
     )
 }
